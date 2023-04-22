@@ -1,0 +1,2 @@
+[console_scripts]
+task_duration_analyzer = excellreport.TaskDurationAnalyzer:main
