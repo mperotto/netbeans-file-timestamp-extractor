@@ -1,0 +1,7 @@
+setup.py
+excellreport.egg-info/PKG-INFO
+excellreport.egg-info/SOURCES.txt
+excellreport.egg-info/dependency_links.txt
+excellreport.egg-info/entry_points.txt
+excellreport.egg-info/requires.txt
+excellreport.egg-info/top_level.txt
